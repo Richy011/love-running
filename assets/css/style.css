@@ -322,14 +322,14 @@ footer {
         
     }
 
-    #photo{
+    #photos {
         column-count: 3;
     }
 }
 
 /* For small screens sizes from 800px wide and down */
-@media screen and (max-width: 800px){
-    #photo{
+@media screen and (max-width: 800px) {
+    #photos {
         column-count: 2;
     }
 }
